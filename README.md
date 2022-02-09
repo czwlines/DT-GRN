@@ -4,7 +4,7 @@ Code for "DT-GRN: Heterogeneous Network-based Graph Recurrent Neural Network Mod
 
 ## Usage
 
-Dowload the processed datasets from https://drugcomb.org/ to `data`
+Dowload the processed datasets from [this site](https://drugcomb.org/) to `data`
 
 ### Train
 
