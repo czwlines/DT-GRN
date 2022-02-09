@@ -1,6 +1,6 @@
 # DT-GRN
 
-Code for "DT-GRN: Heterogeneous Network-based Graph Recurrent Neural Network Model for Drug Combination Prediction".
+Code for "**DT-GRN: Heterogeneous Network-based Graph Recurrent Neural Network Model for Drug Combination Prediction**".
 
 ## Usage
 
