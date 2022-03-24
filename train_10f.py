@@ -17,7 +17,7 @@ def parse_args():
     parser = argparse.ArgumentParser(description='GRN Model Sim Init')
     parser.add_argument('--seed', type=int, default=1234, help='seed for randomness')
     parser.add_argument('--ckp_save_dir', type=str, default='./result/')
-    parser.add_argument('--data_dir', type=str, default='./data/')
+    parser.add_argument('--data_dir', type=str, default='./data/train/')
     parser.add_argument('--data_set', type=str, default='786-0')
     parser.add_argument('--model', type=str, default='[time]')
     parser.add_argument('--th_rate', type=float, default=0.1)
