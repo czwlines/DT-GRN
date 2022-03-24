@@ -1,0 +1,17 @@
+“drugdrug_extract.csv”和之前一样，没有变化，作为标签
+
+“drugfeature2_phychem_sim.csv”是新的药物基于物化性质的相似性矩阵
+
+“drugfeature1_finger_extract.csv”是新的药物节点的分子指纹特征
+
+“drugtarget_extract.csv”是新的药靶关联
+
+“drugdisease_extract.csv”是新的药病关联
+
+“ppi_extract.csv”是新的靶标-靶标关联
+
+“disease-disease_extract.csv”是新的疾病-疾病关联
+
+“targetfeature_extract.csv”是新的靶标节点特征
+
+“diseasefeature_extract3.csv”是新的疾病节点特征
