@@ -15,7 +15,7 @@ Dowload the processed datasets from [this site](https://drugcomb.org/) to `data`
 Take "786-0" for example
 
 ```
-CUDA_VISIBLE_DEVICES=0 python train_10f.py --data_set "786-0"
+python train_10f.py --data_set "786-0"
 ```
 
 ### Predict
